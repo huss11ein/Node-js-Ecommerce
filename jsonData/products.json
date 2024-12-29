@@ -1,0 +1,12 @@
+{
+  "name": "Product1",
+  "description": "this is projecct  description",
+  "Discount": 50,
+  "Status": "In stock",
+  "showStatus": "public",
+  "price": 500,
+  "Size": "Small",
+  "category": "women",
+  "subCategory": "t-shirt",
+  "WashingInstructions": "wash it gentle"
+}
